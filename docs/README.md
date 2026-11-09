@@ -1,3 +1,6 @@
+> [!NOTE]
+> This repository has moved to [lesiw.io/tools/analyzers/testcmp](https://github.com/lesiw/tools/tree/main/analyzers/testcmp).
+
 # lesiw.io/testcmp
 
 [![Go Reference](https://pkg.go.dev/badge/lesiw.io/testcmp.svg)](https://pkg.go.dev/lesiw.io/testcmp)
